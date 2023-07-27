@@ -6,5 +6,5 @@ Resources:
 3. Udemy Course by Daniel Bourke: TensorFlow Developer Certificate in 2023: Zero to Mastery
 
 Advanced level:
-4. Coursera: TensorFlow: Advanced Techniques Specialization
-5. Coursera: TensorFlow: Data and Deployment Specialization
+1. Coursera: TensorFlow: Advanced Techniques Specialization
+2. Coursera: TensorFlow: Data and Deployment Specialization
