@@ -1,6 +1,6 @@
 **Learn Tensorflow**
 
-Basic to Internediate level:
+Basic to Intermediate level:
 1. www.tensorflow.org: Tensorflow tutorials is first and great place to learn
 2. Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 3. Coursera: DeepLearning.AI TensorFlow Developer Professional Certificate
