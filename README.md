@@ -1,9 +1,5 @@
-[[https://www.credential.net/03ccc1b4-563e-409c-9f26-d3112294b958#gs.4l6s25](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/92206604)](https://images.credential.net/embed/q7xf07rm.png)
-
 
 ![Tensorflow_badge](https://github.com/JSini/tensorflow/assets/79960101/7cbb1bba-6c84-486a-8577-b120db2b6d14)
-
-
 
 **Learn Tensorflow**
 
